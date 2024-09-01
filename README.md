@@ -20,7 +20,9 @@ The NylasConnect mobile application leverages the **Nylas API** and **Google Gem
   - **Google Gemini:** For AI-driven functionalities.
   - **Nylas API:** For managing email, calendar, and contacts.
 
-##Screenshots
+## Screenshots
+
+
 ![nylasconnect_ss](https://github.com/user-attachments/assets/91eb975a-af7a-404f-a6c2-3b6b23fe0f4b)
 
 
