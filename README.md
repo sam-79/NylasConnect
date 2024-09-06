@@ -14,16 +14,15 @@ The NylasConnect mobile application leverages the **Nylas API** and **Google Gem
 - **Multi-User Support:** Manage multiple users, each with their own set of emails, calendars, and contacts.
 
 ## Technology Stack
-- **Frontend:** React Native with Expo SDK for building the mobile application.
-- **Backend:** FastAPI ([backend repository](https://github.com/shantanu1905/Inboxone)).
+- **Frontend:** React Native with Expo SDK.
+- **Backend:** FastAPI ([Backend repository](https://github.com/shantanu1905/Inboxone)).
 - **APIs:** 
   - **Google Gemini:** For AI-driven functionalities.
   - **Nylas API:** For managing email, calendar, and contacts.
 
 ## Screenshots
 
-
-![nylasconnect_ss](https://github.com/user-attachments/assets/91eb975a-af7a-404f-a6c2-3b6b23fe0f4b)
+![screenshots-nylasconnect](https://github.com/user-attachments/assets/cc21d6a3-948b-461a-b4b2-ce866fc125e3)
 
 
 ## Setup Instructions
